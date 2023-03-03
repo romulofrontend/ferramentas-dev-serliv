@@ -22,6 +22,15 @@ directory and file remove | rm -rf nomediretorio
 
 
 
+## GIT COMANDOS
+git init - inicializa o repositório
+git status - Exibe o monitoramento dos arquivos modificados após ter inicializado o repo
+git add nomearquivo.extensao - Insere o arquivo no stage (etapa anterior ao commit)
+git rm --cached nomearquivo - Remove o arquivo da stage
+git commit -m "mensagem" - Guarda a alteração realizada no código e sua mensagem ajuda a marcar a mudança 
+
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
