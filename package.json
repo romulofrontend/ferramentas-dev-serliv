@@ -1,0 +1,25 @@
+{
+  "name": "ferramentas-dev-serliv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romulofrontend/ferramentas-dev-serliv.git"
+  },
+  "keywords": [],
+  "author": "Romulo Rosa <romulo.frontend@gmail>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romulofrontend/ferramentas-dev-serliv/issues"
+  },
+  "homepage": "https://github.com/romulofrontend/ferramentas-dev-serliv#readme"
+}
